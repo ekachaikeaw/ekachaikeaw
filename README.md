@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+* 👋 Hi, I’m @prutmongkol
+* 👀 I’m keenly interested in solving-problem in computer science.
+* 🌱 I’m curruntly learning TypeScript, Python and Go.
 <!--
 **ekachaikeaw/ekachaikeaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
