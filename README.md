@@ -3,6 +3,12 @@
 * 👋 Hi, I’m @ekachaikeaw
 * 👀 I’m keenly interested in solving-problem in computer science.
 * 🌱 I’m curruntly learning TypeScript, Python and Go.
+
+## My Recent Tinkering
+* [🤖 Mini-Ai-Agent](https://github.com/ekachaikeaw/toy-ai-agent): Toy Claude Code version help you fix bug in IDE - Python.
+* [🐊 Gator](https://github.com/ekachaikeaw/Gator): Blog Aggregator get feed from your favorite site with rss/xml keep your own feeds and following others - TypeScript.
+* [🫎 Pokedex-CLI](https://github.com/ekachaikeaw/Pokedex-cli): Pokedéx CLI let's catch your pokemon with many place you can explore in pokemon world - TypeScript.
+* [🚀 Asteriod](https://github.com/ekachaikeaw/Asteroid): Asteriod game written with PyGame to destroy asteriod with your spaceship - Python.
 <!--
 **ekachaikeaw/ekachaikeaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
