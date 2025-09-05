@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 👋 Hi, I’m @prutmongkol
+* 👋 Hi, I’m @ekachaikeaw
 * 👀 I’m keenly interested in solving-problem in computer science.
 * 🌱 I’m curruntly learning TypeScript, Python and Go.
 <!--
